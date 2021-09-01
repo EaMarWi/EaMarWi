@@ -1,4 +1,4 @@
-Hi there, I'm MeerOst! 👋<br/>
+Hi there, I'm MeerOst ! 👋<br/>
 <br/>
 ## Stats
 [![MeerOst's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeerOst&theme=cobalt)](https://github.com/MeerOst/MeerOst)
