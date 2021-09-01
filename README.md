@@ -2,4 +2,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeerOst&repo=MeerOstLightHouseFlowMonitor&theme=cobalt)](https://github.com/MeerOst/MeerOst)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeerOst&repo=MiOu&theme=cobalt)](https://github.com/MeerOst/MiOu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeerOst&repo=meerost.github.io&theme=cobalt)](https://github.com/MeerOst/meerost.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerOst)](https://github.com/MeerOst/MeerOst)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerOst&layout=compact)](https://github.com/MeerOst/MeerOst)
