@@ -1,13 +1,12 @@
 Hi there, I'm OriOYue ! 👋<br/>
 <br/>
 ## Stats
-[![MeerOst's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeerOst&theme=cobalt)](https://github.com/MeerOst/MeerOst)
+[![MeerOst's GitHub stats](https://github-readme-stats.vercel.app/api?username=OriOYue&theme=cobalt)](https://github.com/OriOYue/OriOYue)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerOst&theme=cobalt&layout=compact)](https://github.com/MeerOst/MeerOst)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriOYue&theme=cobalt&layout=compact)](https://github.com/OriOYue/OriOYue)
 
 ## Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeerOst&repo=MeerOstLightHouseFlowMonitor&theme=cobalt)](https://github.com/MeerOst/MeerOstLightHouseFlowMonitor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeerOst&repo=MiOu&theme=cobalt)](https://github.com/MeerOst/MiOu)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeerOst&repo=meerost.github.io&theme=cobalt)](https://github.com/MeerOst/meerost.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeerOst&repo=MeerOstPubilcStatic&theme=cobalt)](https://github.com/MeerOst/MeerOstPubilcStatic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OriOYue&repo=TencentCloudLightHouseFlowMonitor&theme=cobalt)](https://github.com/OriOYue/TencentCloudLightHouseFlowMonitor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OriOYue&repo=orioyue.github.io&theme=cobalt)](https://github.com/OriOYue/orioyue.github.io)
+
